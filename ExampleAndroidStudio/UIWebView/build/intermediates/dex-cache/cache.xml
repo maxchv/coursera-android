@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\shaptala\android\coursera-android\ExampleAndroidStudio\UIWebView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67f6d70fe4bd0c9fa82558f1fc9748ff0d12cc77">
+        <dex dex="D:\shaptala\android\coursera-android\ExampleAndroidStudio\UIWebView\app\build\intermediates\pre-dexed\debug\instant-run_6b6d7436991bad7ef3489c8b50637805e7a58e74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\shaptala\android\coursera-android\ExampleAndroidStudio\UIWebView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="91a60cccbd85d088187af7ab1144bd880ff6015b">
+        <dex dex="D:\shaptala\android\coursera-android\ExampleAndroidStudio\UIWebView\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2006305add11bbe394d426ab004bb5ddb9df5075.jar" />
+    </item>
+
+</items>

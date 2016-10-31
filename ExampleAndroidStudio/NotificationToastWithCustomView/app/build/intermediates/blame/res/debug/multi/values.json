@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\NotificationToastWithCustomView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\NotificationToastWithCustomView\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 68,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 50,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\NotificationToastWithCustomView\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endColumn": 50,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 56,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\NotificationToastWithCustomView\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 56,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 55,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\NotificationToastWithCustomView\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 55,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    }
+]

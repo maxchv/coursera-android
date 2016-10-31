@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\shaptala\android\coursera-android\ExampleAndroidStudio\FragmentStaticLayout\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77c7d570d5d6a9486031a0cf5fab0a34663e1ac1">
+        <dex dex="D:\shaptala\android\coursera-android\ExampleAndroidStudio\FragmentStaticLayout\app\build\intermediates\pre-dexed\debug\instant-run_826b25b7cbedc56460d6b61bd032759250f3839f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\shaptala\android\coursera-android\ExampleAndroidStudio\FragmentStaticLayout\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1a6f8eafac212591ceccf52b6f214a76fd3f1a3">
+        <dex dex="D:\shaptala\android\coursera-android\ExampleAndroidStudio\FragmentStaticLayout\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f2cd41f49ac62e6367f81dbaf5b7150bca876529.jar" />
+    </item>
+
+</items>

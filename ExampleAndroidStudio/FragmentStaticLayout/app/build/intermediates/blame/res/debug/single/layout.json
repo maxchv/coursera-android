@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quote_fragment.xml",
+        "source": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticLayout\\app\\src\\main\\res\\layout\\quote_fragment.xml"
+    },
+    {
+        "merged": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticLayout\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_item.xml",
+        "source": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticLayout\\app\\src\\main\\res\\layout\\title_item.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Mon Oct 31 13:45:26 EET 2016
+base.0=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\UIWebView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\UIWebView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\shaptala\android\coursera-android\ExampleAndroidStudio\DataManagementFileExternalMemory\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9eef445910fc67a57b0858274bc965ee2368e34d">
+        <dex dex="D:\shaptala\android\coursera-android\ExampleAndroidStudio\DataManagementFileExternalMemory\app\build\intermediates\pre-dexed\debug\instant-run_63b6eb3660ed87f5a3aaedbcde782c7590940094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\shaptala\android\coursera-android\ExampleAndroidStudio\DataManagementFileExternalMemory\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d54fb565aa33d50ed77020e55a5e8818fbcf3d2">
+        <dex dex="D:\shaptala\android\coursera-android\ExampleAndroidStudio\DataManagementFileExternalMemory\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ad4242eae837687788798330666c81245e22ad02.jar" />
+    </item>
+
+</items>

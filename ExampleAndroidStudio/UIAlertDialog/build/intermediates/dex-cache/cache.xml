@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\shaptala\android\coursera-android\ExampleAndroidStudio\UIAlertDialog\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6965e3bfcbe90364e749fbbbf7162e51fe7d1cb">
+        <dex dex="D:\shaptala\android\coursera-android\ExampleAndroidStudio\UIAlertDialog\app\build\intermediates\pre-dexed\debug\instant-run_47a5bdd52746267c254a34ac0c83f69e2211eca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\shaptala\android\coursera-android\ExampleAndroidStudio\UIAlertDialog\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed198a7ad08331a3d787704fdc82a7042a5e7072">
+        <dex dex="D:\shaptala\android\coursera-android\ExampleAndroidStudio\UIAlertDialog\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ce7213471812393ce01ccea48f92884014fb598b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\shaptala\android\coursera-android\ExampleAndroidStudio\NotificationToastWithCustomView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b3450370f4db9d29f41fab79a0ba7df5f261686">
+        <dex dex="D:\shaptala\android\coursera-android\ExampleAndroidStudio\NotificationToastWithCustomView\app\build\intermediates\pre-dexed\debug\instant-run_33e7b890a3173d0d7ccac54652ee37ac598d9924.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\shaptala\android\coursera-android\ExampleAndroidStudio\NotificationToastWithCustomView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de62aebb082fae9b2d0752fb7dcb854dafc3b5a5">
+        <dex dex="D:\shaptala\android\coursera-android\ExampleAndroidStudio\NotificationToastWithCustomView\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_712f4dfe08a383629bae06ad438eb321083d75a5.jar" />
+    </item>
+
+</items>

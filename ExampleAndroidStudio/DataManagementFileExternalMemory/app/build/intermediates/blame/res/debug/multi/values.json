@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementFileExternalMemory\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementFileExternalMemory\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 64,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 120,
+                    "endColumn": 69,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementFileExternalMemory\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 69,
+                        "endOffset": 122
+                    }
+                }
+            }
+        ]
+    }
+]

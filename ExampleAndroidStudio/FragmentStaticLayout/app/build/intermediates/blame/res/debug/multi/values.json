@@ -1,0 +1,68 @@
+[
+    {
+        "outputFile": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticLayout\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endLine": 12,
+                        "endColumn": 19,
+                        "endOffset": 751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 681
+                },
+                "from": {
+                    "file": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endLine": 7,
+                        "endColumn": 19,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 686,
+                    "endColumn": 57,
+                    "endOffset": 739
+                },
+                "from": {
+                    "file": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 57,
+                        "endOffset": 110
+                    }
+                }
+            }
+        ]
+    }
+]

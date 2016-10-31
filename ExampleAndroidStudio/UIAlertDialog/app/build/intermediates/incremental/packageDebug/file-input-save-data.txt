@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Mon Oct 31 13:39:47 EET 2016
+1.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\UIAlertDialog\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\UIAlertDialog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\UIAlertDialog\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=DEX
+2.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\UIAlertDialog\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\UIAlertDialog\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\UIAlertDialog\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\UIAlertDialog\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\UIAlertDialog\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\UIAlertDialog\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+4.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\UIAlertDialog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="12091209041070"
+    token="-4711294003581772380"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="91" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="41" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="D:\shaptala\android\coursera-android\ExampleAndroidStudio\DataManagementSQL\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="12091209041070"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\shaptala\android\coursera-android\ExampleAndroidStudio\DataManagementSQL\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

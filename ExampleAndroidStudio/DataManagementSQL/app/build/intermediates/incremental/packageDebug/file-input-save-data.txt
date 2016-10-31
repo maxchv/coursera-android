@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Mon Oct 31 13:18:40 EET 2016
+2.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementSQL\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.set=DEX
+2.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\list_layout.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementSQL\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE

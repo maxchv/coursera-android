@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\NetworkingSockets\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\NetworkingSockets\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 54,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 54,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "D:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\NetworkingSockets\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 54,
+                        "endOffset": 165
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Oct 31 13:52:53 EET 2016
+2.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\quote_fragment.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\list_item.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\quote_fragment.xml
+5.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\list_item.xml
+1.set=ANDROID_RESOURCE
+7.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\shaptala\\android\\coursera-android\\ExampleAndroidStudio\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE
